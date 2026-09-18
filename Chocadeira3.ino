@@ -8,8 +8,8 @@
 #include <time.h>
 
 // Credenciais Wi-Fi
-const char* ssid     = "Alessandro_2G";
-const char* password = "Van@1981";
+const char* ssid     = "Your_ssid";
+const char* password = "Your_password";
 
 // Configuração de IP Fixo
 IPAddress local_IP(172, 16, 0, 51);
